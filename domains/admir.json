@@ -1,11 +1,11 @@
 {
   "description": "Admir",
-  "repo": "https://github.com/justadmir/is-a.dev-repo",
+  "repo": "https://github.com/justadmir/justadmir.github.io",
   "owner": {
     "username": "admir",
     "email": "admirtahiraj242@gmail.com"
   },
   "record": {
-    "CNAME": "https://justadmir.github.io/is-a.dev-repo/"
+    "CNAME": "justadmir.github.io"
   }
 }
